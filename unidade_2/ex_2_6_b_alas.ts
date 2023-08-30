@@ -7,3 +7,7 @@ enum DiasDaSemana {
     Sexta,
     Sabado,
 }
+
+console.log(DiasDaSemana.Segunda);
+console.log(DiasDaSemana.Quarta);
+console.log(DiasDaSemana.Sabado);
