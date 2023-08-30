@@ -1,1 +1,1 @@
-Danielle ≝ <img src="../danielle.png">
+Danielle ≝ <img src="../danielle.png" width="100px">
