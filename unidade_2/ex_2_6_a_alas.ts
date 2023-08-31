@@ -12,3 +12,7 @@ enum MesesDoAno {
     Novembro,
     Dezembro
 }
+
+console.log(MesesDoAno.Janeiro); 
+console.log(MesesDoAno.Junho);   
+console.log(MesesDoAno.Dezembro);
