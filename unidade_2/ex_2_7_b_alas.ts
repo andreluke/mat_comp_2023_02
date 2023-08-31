@@ -1,4 +1,4 @@
-import { Veiculo, VeiculoEletrico, VeiculoEletricoVoador } from './ex_2_7_b_alas';
+import { Veiculo, VeiculoEletrico, VeiculoEletricoVoador } from './ex_2_7_a_alas';
 
 const veiculo1 = new Veiculo(0, 0);
 console.log('Veículo - Longitude:', veiculo1.longitude, 'Latitude:', veiculo1.latitude);
