@@ -1,1 +1,1 @@
-Famiia ≝ André Lucas, Arthur Lucas (Irmão), Ana Maria (Mãe), Anderson (Pai)
+Famiia ≝ André Lucas, Arthur Lucas (Irmão), Ana Maria (Mãe), Anderson (Pai).
